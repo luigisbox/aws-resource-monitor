@@ -1,0 +1,2 @@
+include .flake8 LICENSE README.md
+recursive-include tests *.py
